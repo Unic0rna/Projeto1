@@ -3,8 +3,7 @@ using MySql.Data.MySqlClient;
 
 namespace Projeto1.Repositorio
 {
-    public class Conexao
-    {
+    
         public class Conexao : IDisposable
         {
 
@@ -33,5 +32,5 @@ namespace Projeto1.Repositorio
 
     }
 
-}
+
 
